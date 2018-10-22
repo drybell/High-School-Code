@@ -1,0 +1,47 @@
+What is the student's name (firstname lastname)? Gary
+What is the student's grade (9-12)? a
+You must enter an *integer* between 9 and 12.
+What is the student's grade (9-12)? -1
+Your number needs to be between 9 and 12.
+What is the student's grade (9-12)? 13
+Your number needs to be between 9 and 12.
+What is the student's grade (9-12)? 12
+How many courses is this student taking (1-8)? a
+You must enter an *integer* between 1 and 8.
+How many courses is this student taking (1-8)? -1
+Your number needs to be between 1 and 8.
+How many courses is this student taking (1-8)? 13
+Your number needs to be between 1 and 8.
+How many courses is this student taking (1-8)? 2
+Course 1 name? 
+Input is not valid, you need to enter some text
+Course 1 name? Art
+Period for Art (1-8)? a
+You must enter an *integer* between 1 and 8.
+Period for Art (1-8)? -1
+Your number needs to be between 1 and 8.
+Period for Art (1-8)? 13
+Your number needs to be between 1 and 8.
+Period for Art (1-8)? 5
+Course 2 name? PE
+Period for PE (1-8)? 5
+Gary  is already taking a course in period 5
+Course 2 name? PE
+Period for PE (1-8)? 6
+
+What is the student's name (firstname lastname)? Sheldon J. Plankton
+What is the student's grade (9-12)? 12
+How many courses is this student taking (1-8)? 2
+Course 1 name? Drama
+Period for Drama (1-8)? 8
+Course 2 name? Computer Science
+Period for Computer Science (1-8)? 1
+
+Student Gary  is taking courses [Free, Free, Free, Free, Art, PE, Free, Free]
+Student Sheldon J. Plankton is taking courses [Computer Science, Free, Free, Free, Free, Free, Free, Drama]
+The students have the following classes in common:
+   2 - Free
+   3 - Free
+   4 - Free
+   7 - Free
+   

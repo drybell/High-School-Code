@@ -1,0 +1,70 @@
+0.0625 C 4 SHARP false
+0.0625 D 4 SHARP false
+0.125 E 4 SHARP false
+0.125 R false
+0.125 D 4 SHARP false
+0.125 C 4 SHARP false
+0.125 D 4 SHARP false 
+0.125 R false
+0.125 C 4 SHARP false 
+0.125 B 3 NATURAL false 
+0.125 B 3 FLAT false
+0.125 R false
+0.125 G 3 SHARP false
+0.125 G 3 NATURAL false
+0.125 G 3 SHARP false
+0.125 R false
+0.125 D 3 SHARP false 
+0.125 E 3 NATURAL false
+0.125 D 3 SHARP false 
+0.125 E 3 NATURAL false
+0.125 D 3 SHARP false 
+0.125 E 3 NATURAL false
+0.125 D 3 SHARP false
+0.125 G 3 NATURAL false
+0.125 B 3 NATURAL false
+0.125 B 3 FLAT false
+0.125 G 3 SHARP false
+0.125 R false
+0.125 G 3 SHARP false
+0.125 A 3 SHARP false
+0.125 B 3 NATURAL false
+0.125 R false
+0.125 A 3 SHARP false
+0.125 B 3 NATURAL false
+0.0625 B 3 NATURAL false
+0.0625 C 4 NATURAL false
+0.125 C 4 SHARP false
+0.0625 R false
+0.125 B 3 NATURAL false 
+0.125 B 3 FLAT false
+0.125 G 3 NATURAL false
+0.125 R false
+0.125 G 3 SHARP false
+0.125 A 3 SHARP false
+0.125 B 3 NATURAL false
+0.125 R false
+0.125 A 3 SHARP false
+0.125 G 3 SHARP false
+0.125 D 3 SHARP false
+0.125 R false
+0.125 D 3 SHARP false 
+0.125 E 3 NATURAL false
+0.125 D 3 SHARP false 
+0.125 E 3 NATURAL false
+0.125 D 3 SHARP false 
+0.125 E 3 NATURAL false
+0.125 D 3 SHARP false
+0.125 B 3 NATURAL false
+0.125 B 3 FLAT false
+0.125 G 3 NATURAL false
+0.125 G 3 SHARP false
+0.125 R false
+0.125 G 3 SHARP false
+0.125 G 3 NATURAL false
+0.125 G 3 SHARP false
+0.125 R false
+0.0625 F 4 SHARP false
+0.0625 G 4 NATURAL false
+0.0625 G 4 SHARP false
+0.0625 R false

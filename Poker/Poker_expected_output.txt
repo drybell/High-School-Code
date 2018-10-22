@@ -1,0 +1,97 @@
+Testing unshuffled
+Dealing 5 cards to 4 players
+Cards dealt
+
+Checking cards left over = 34: yup!
+
+Player 1 has cards: Joker #2, Jack of Clubs, 7 of Clubs, 3 of Clubs, Queen of Diamonds
+Player 2 has cards: Joker #1, 10 of Clubs, 6 of Clubs, 2 of Clubs, Jack of Diamonds
+Player 3 has cards: King of Clubs, 9 of Clubs, 5 of Clubs, Ace of Clubs, 10 of Diamonds
+Player 4 has cards: Queen of Clubs, 8 of Clubs, 4 of Clubs, King of Diamonds, 9 of Diamonds
+
+Card 1: Joker #2 != Card 2: Jack of Clubs
+
+The cards left in the deck are:
+Ace of Spades
+2 of Spades
+3 of Spades
+4 of Spades
+5 of Spades
+6 of Spades
+7 of Spades
+8 of Spades
+9 of Spades
+10 of Spades
+Jack of Spades
+Queen of Spades
+King of Spades
+Ace of Hearts
+2 of Hearts
+3 of Hearts
+4 of Hearts
+5 of Hearts
+6 of Hearts
+7 of Hearts
+8 of Hearts
+9 of Hearts
+10 of Hearts
+Jack of Hearts
+Queen of Hearts
+King of Hearts
+Ace of Diamonds
+2 of Diamonds
+3 of Diamonds
+4 of Diamonds
+5 of Diamonds
+6 of Diamonds
+7 of Diamonds
+8 of Diamonds
+
+Testing shuffled
+Dealing 5 cards to 4 players
+Cards dealt
+
+Checking cards left over = 34: yup!
+
+Player 1 has cards: 2 of Spades, Joker #1, Queen of Clubs, 10 of Clubs, 7 of Spades
+Player 2 has cards: Ace of Hearts, King of Clubs, 10 of Spades, Jack of Diamonds, 8 of Diamonds
+Player 3 has cards: 4 of Hearts, 3 of Hearts, 5 of Spades, 6 of Diamonds, 5 of Diamonds
+Player 4 has cards: Jack of Hearts, 9 of Spades, 7 of Hearts, 10 of Hearts, 7 of Diamonds
+
+Card 1: 2 of Spades != Card 2: Joker #1
+
+The cards left in the deck are:
+10 of Diamonds
+6 of Clubs
+Ace of Spades
+Queen of Spades
+3 of Spades
+9 of Hearts
+4 of Spades
+Queen of Diamonds
+King of Hearts
+3 of Clubs
+5 of Clubs
+Ace of Diamonds
+9 of Diamonds
+3 of Diamonds
+4 of Clubs
+8 of Clubs
+Queen of Hearts
+King of Spades
+Jack of Clubs
+6 of Hearts
+Ace of Clubs
+Joker #2
+King of Diamonds
+6 of Spades
+4 of Diamonds
+2 of Clubs
+8 of Hearts
+2 of Diamonds
+Jack of Spades
+2 of Hearts
+9 of Clubs
+8 of Spades
+7 of Clubs
+5 of Hearts

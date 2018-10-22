@@ -1,0 +1,37 @@
+What is the student's name (firstname lastname)? Patrick Star
+What is the student's grade (9-12)? 9
+How many courses is this student taking (1-8)? 7
+Course 1 name? Algebra 2
+Period for Algebra 2 (1-8)? 1
+Course 2 name? Biology
+Period for Biology (1-8)? 2
+Course 3 name? English 9
+Period for English 9 (1-8)? 3
+Course 4 name? Art
+Period for Art (1-8)? 4
+Course 5 name? PE
+Period for PE (1-8)? 6
+Course 6 name? Big History
+Period for Big History (1-8)? 7
+Course 7 name? Spanish 2
+Period for Spanish 2 (1-8)? 8
+
+What is the student's name (firstname lastname)? Sandy Cheeks
+What is the student's grade (9-12)? 11
+How many courses is this student taking (1-8)? 6
+Course 1 name? Chemistry
+Period for Chemistry (1-8)? 1
+Course 2 name? American Cultural Studies
+Period for American Cultural Studies (1-8)? 2
+Course 3 name? Precalculus
+Period for Precalculus (1-8)? 3
+Course 4 name? Chinese III
+Period for Chinese III (1-8)? 5
+Course 5 name? US History
+Period for US History (1-8)? 6
+Course 6 name? Jazz Band
+Period for Jazz Band (1-8)? 8
+
+Student Patrick Star is taking courses [Algebra 2, Biology, English 9, Art, Free, PE, Big History, Spanish 2]
+Student Sandy Cheeks is taking courses [Chemistry, American Cultural Studies, Precalculus, Free, Chinese III, US History, Free, Jazz Band]
+The students have no shared classes.
